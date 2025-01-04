@@ -6,14 +6,23 @@ connector pinout and missed a trace leading to the 7805 voltage regulator. The
 software used in this project is as follows:
 
 -Kicad 7.0
+
 -Autodesk Fusion 2.0.20494 x86_64
+
 -Arduino IDE Version: 2.3.4
+
 -GBDK-2020
+
 -Savvy CAN V208
+
 -Xgpro v12.66
+
 -UltiMaker Cura 5.6.0
+
 -LightBurn 1.6.03
+
 -GIMP 2.10.36
+
 -Visual Studio Code Version: 1.96.2
 
 I think LightBurn was the only paid software I used, and that was for the
